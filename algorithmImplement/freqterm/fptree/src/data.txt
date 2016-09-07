@@ -1,0 +1,6 @@
+a,f,c,d,x
+e,d,f,c
+h,f,j,d
+u,r,g,h,j,k,p
+f,b,g,d,r,y
+o,p,j,r,f,g,s
